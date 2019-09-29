@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wouquaedah.frankdebarber.com/sitemap.xml
